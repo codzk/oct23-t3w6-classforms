@@ -1,6 +1,5 @@
 
 
-
 export default function SocialCardDisplay(props){
 
 	return <div>
